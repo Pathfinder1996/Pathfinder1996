@@ -89,7 +89,7 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/>
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/scipy/scipy-original.svg" title="SciPy" alt="SciPy" width="55" height="55"/>
+        <img src="/image/SciPy.png" title="SciPy" alt="SciPy" width="55" height="40"/>
       </td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/raw/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>
