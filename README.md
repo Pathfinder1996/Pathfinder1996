@@ -66,7 +66,7 @@
       <th>TensorFlow</th>
       <th>Keras</th>
       <th>OpenCV</th>
-      <th>scikit-learn</th>
+      <th>Scikit-learn</th>
       <th>NumPy</th>
       <th>SciPy</th>
       <th>Matplotlib</th>
