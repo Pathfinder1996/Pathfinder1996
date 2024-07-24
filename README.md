@@ -89,13 +89,30 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/>
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/scipy/scipy-original.svg" title="SciPy" alt="SciPy" width="55" height="55"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" alt="SciPy" width="55" height="40"/>
       </td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/raw/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>
       </td>
       <td align="center">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>
+        <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Pandas</th>
+      <th>PyQt</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" alt="Pandas" width="55" height="55"/>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" title="PyQt" alt="PyQt" width="55" height="55"/>
       </td>
     </tr>
   </table>
