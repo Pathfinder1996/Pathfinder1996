@@ -121,7 +121,3 @@
 <p align="center">
  <img alt="line" width="800" height="auto" src="/image/line.gif"/>
 </p>
-
-<p align="center">
-  <img width="800" src="/image/s.svg" />
-</p>
