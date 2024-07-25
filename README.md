@@ -4,12 +4,12 @@
  <img alt="line" width="900" height="auto" src="/image/line.gif"/>
 </p>
 
+<p align="center">
+ <img alt="coding" width="350" height="auto" src="/image/coding.gif"/>
+</p>
+
 <h4 align="center">Automation and Control Engineering student at NTUST</h4>
 <h4 align="center">Began learning and exploring coding in September 2023</h4>
-
-<p align="center">
- <img alt="coding" width="300" height="auto" src="/image/coding.gif"/>
-</p>
 
 <p align="center">
  <img alt="line" width="900" height="auto" src="/image/line.gif"/>
