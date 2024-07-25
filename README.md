@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Dai Sheng Yan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /></h3>
 
 <p align="center">
- <img alt="line" width="800" height="auto" src="/image/line.gif"/>
+ <img alt="line" width="600" height="auto" src="/image/line.gif"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <h3 align="center">Began learning and exploring coding in September 2023</h3>
 
 <p align="center">
- <img alt="line" width="800" height="auto" src="/image/line.gif"/>
+ <img alt="line" width="600" height="auto" src="/image/line.gif"/>
 </p>
 
 <h3 align="center">Using Languages, Tools, and OS</h3>
@@ -66,6 +66,10 @@
     </tr>
   </table>
 </div>
+
+<p align="center">
+ <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+</p>
 
 <h3 align="center">Frameworks and Libraries for Python3</h3>
 
@@ -121,9 +125,13 @@
 </div>
 
 <p align="center">
+ <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+</p>
+
+<p align="center">
  <img alt="line" width="600" height="auto" src="/image/image.gif"/>
 </p>
 
 <p align="center">
- <img alt="line" width="800" height="auto" src="/image/line.gif"/>
+ <img alt="line" width="600" height="auto" src="/image/line.gif"/>
 </p>
