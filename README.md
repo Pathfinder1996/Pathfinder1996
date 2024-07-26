@@ -8,8 +8,9 @@
  <img alt="coding" width="350" height="auto" src="/image/coding.gif"/>
 </p>
 
-<h3 align="center">Automation and Control Engineering student at NTUST</h3>
-<h3 align="center">Began learning and exploring coding in September 2023</h3>
+<h3 align="center">Automation and Control Engineering student at NTUST,</h3>
+<h3 align="center">having started my studies in September 2023.</h3>
+<h3 align="center">began learning and exploring coding at the same time.</h3>
 
 <p align="center">
  <img alt="line" width="600" height="auto" src="/image/line.gif"/>
