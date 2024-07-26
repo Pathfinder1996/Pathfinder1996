@@ -113,7 +113,7 @@
         <br>Matplotlib
       </td>
       <td align="center" width="120" height="120">
-          <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50" />
+          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50" />
         <br>Seaborn
       </td>
       <td align="center" width="120" height="120">
