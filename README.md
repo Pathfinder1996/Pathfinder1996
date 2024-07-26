@@ -128,11 +128,3 @@
 <p align="center">
  <img alt="line" width="600" height="auto" src="/image/line.gif"/>
 </p>
-
-<p align="center">
- <img alt="line" width="600" height="auto" src="/image/image.gif"/>
-</p>
-
-<p align="center">
- <img alt="line" width="600" height="auto" src="/image/line.gif"/>
-</p>
