@@ -1,19 +1,19 @@
 <h3 align="center">Hi, I'm Dai Sheng Yan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /></h3>
 
 <p align="center">
-    <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+    <img alt="line" width="800" height="auto" src="/image/line.gif"/>
 </p>
 
 <p align="center">
     <img alt="coding" width="350" height="auto" src="/image/coding.gif"/>
 </p>
 
-<h3 align="center">Automation and Control Engineering student at NTUST,</h3>
-<h3 align="center">having started my studies in September 2023.</h3>
-<h3 align="center">began learning and exploring coding at the same time.</h3>
+<h3 align="center">I am an Automation and Control Engineering student at NTUST,</h3>
+<h3 align="center">starting my studies in September 2023.</h3>
+<h3 align="center">Alongside my academic journey, I have been actively learning and exploring coding.</h3>
 
 <p align="center">
-    <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+    <img alt="line" width="800" height="auto" src="/image/line.gif"/>
 </p>
 
 <h3 align="center">Using Languages, Tools, and OS</h3>
@@ -67,7 +67,7 @@
 </div>
 
 <p align="center">
-    <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+    <img alt="line" width="800" height="auto" src="/image/line.gif"/>
 </p>
 
 <h3 align="center">Frameworks and Libraries for Python3</h3>
@@ -122,5 +122,5 @@
 </div>
 
 <p align="center">
-    <img alt="line" width="600" height="auto" src="/image/line.gif"/>
+    <img alt="line" width="800" height="auto" src="/image/line.gif"/>
 </p>
