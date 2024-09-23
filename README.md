@@ -22,27 +22,17 @@
     <table align="center">
         <tr>
             <td align="center" width="120" height="120">
-                <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />
-                <br>C 
+                <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" title="Assembly" alt="Assembly" width="50" height="50" />
+                <br>Assembly 
             </td>
             <td align="center" width="120" height="120">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" />
-                <br>C++
+                <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />
+                <br>C
             </td>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" />
                 <br>Python
             </td>
-            <td align="center" width="120" height="120">
-                <img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50" />
-                <br>Jupyter 
-            </td>
-            <td align="center" width="120" height="120">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" width="50" height="50" />
-                <br>VS Code
-            </td>
-        </tr>
-        <tr>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" />
                 <br>Git
@@ -51,6 +41,8 @@
                 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50" />
                 <br>GitHub
             </td>
+        </tr>
+        <tr>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" />
                 <br>Linux
@@ -61,6 +53,10 @@
             </td>
             <td align="center" width="120" height="120">
                 <br>
+            </td>
+            <td align="center" width="120" height="120">
+            </td>
+            <td align="center" width="120" height="120">
             </td>
         </tr>
     </table>
