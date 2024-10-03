@@ -23,7 +23,7 @@
         <tr>
             <td align="center" width="120" height="120">
                 <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" title="Assembly" alt="Assembly" width="50" height="50" />
-                <br>Assembly 
+                <br>Assembly (RISC-V) 
             </td>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />
@@ -31,7 +31,7 @@
             </td>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" />
-                <br>Python
+                <br>Python3
             </td>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" />
