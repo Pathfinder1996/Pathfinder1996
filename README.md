@@ -37,18 +37,20 @@
                 <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50" />
                 <br>GitHub
             </td>
-        </tr>
-        <tr>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" />
                 <br>Linux
             </td>
+        </tr>
+        <tr>
             <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50" />
                 <br>Ubuntu
             </td>
             <td align="center" width="120" height="120">
                 <br>
+            </td>
+            <td align="center" width="120" height="120">
             </td>
             <td align="center" width="120" height="120">
             </td>
