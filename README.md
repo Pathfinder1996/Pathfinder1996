@@ -22,10 +22,6 @@
     <table align="center">
         <tr>
             <td align="center" width="120" height="120">
-                <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" title="Assembly" alt="Assembly" width="50" height="50" />
-                <br>Assembly
-            </td>
-            <td align="center" width="120" height="120">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />
                 <br>C
             </td>
