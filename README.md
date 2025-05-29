@@ -43,8 +43,6 @@
         </tr>
         <tr>
             <td align="center" width="120" height="120">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50" />
-                <br>Ubuntu
             </td>
             <td align="center" width="120" height="120">
             </td>
