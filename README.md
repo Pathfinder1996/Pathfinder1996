@@ -8,10 +8,10 @@
     <img alt="coding" width="350" height="auto" src="/image/coding.gif"/>
 </p>
 
-<h3 align="center">I am an Automation and Control Engineering student at NTUST,</h3>
-<h3 align="center">Starting my studies in September 2023.</h3>
+<h3 align="center">I am a student of Automation and Control Engineering at NTUST,</h3>
+<h3 align="center">having begun my studies in September 2023.</h3>
 <h3 align="center">Alongside my academic journey, I have been actively learning and exploring coding.</h3>
-<h3 align="center">Before enrolling at NTUST, I worked in the semiconductor industry for nearly five years.</h3>
+<h3 align="center">Prior to enrolling at NTUST, I worked in the semiconductor industry for nearly five years.</h3>
 
 <p align="center">
     <img alt="line" width="800" height="auto" src="/image/line.gif"/>
