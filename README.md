@@ -8,10 +8,6 @@
     <img alt="coding" width="350" height="auto" src="/image/coding.gif"/>
 </p>
 
-<p align="center">
-    <img alt="line" width="800" height="auto" src="/image/line.gif"/>
-</p>
-
 <h3 align="center">Using Languages, Tools, and OS</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
